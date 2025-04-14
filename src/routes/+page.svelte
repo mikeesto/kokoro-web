@@ -136,8 +136,14 @@
 	{/if}
 </main>
 <footer class="mx-auto mt-4 max-w-3xl p-8 text-center text-gray-600">
-	<a
-		href="https://github.com/mikeesto/kokoro-web"
-		class="underline transition-colors hover:text-blue-500">source code</a
-	>
+	<p class="mb-2 flex items-center justify-center gap-2">
+		made by <a href="https://mikeesto.com" class="underline transition-colors hover:text-blue-500"
+			>@mikeesto</a
+		>
+		<span>⚉</span>
+		<a
+			href="https://github.com/mikeesto/kokoro-web"
+			class="underline transition-colors hover:text-blue-500">source code</a
+		>
+	</p>
 </footer>
